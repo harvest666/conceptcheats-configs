@@ -1,0 +1,761 @@
+[[maps]]
+  map = "de_mirage"
+
+  [[maps.grenades]]
+    grenade = 1
+    name = "A Alley to CT"
+    type = 2
+    [maps.grenades.angle]
+      x = -12.414589881896973
+      y = -142.08251953125
+    [maps.grenades.pos]
+      x = 872.8748779296875
+      y = -1036.0040283203125
+      z = -187.90618896484375
+
+  [[maps.grenades]]
+    grenade = 1
+    name = "T Roof to Middle of Boxes in A"
+    type = 0
+    [maps.grenades.angle]
+      x = -21.651288986206055
+      y = -149.33567810058594
+    [maps.grenades.pos]
+      x = 875.96875
+      y = -1209.6900634765625
+      z = -44.90618896484375
+
+  [[maps.grenades]]
+    grenade = 1
+    name = "T Roof to A Stairs"
+    type = 0
+    [maps.grenades.angle]
+      x = -43.18378829956055
+      y = -165.2549591064453
+    [maps.grenades.pos]
+      x = 1148.5
+      y = -1183.9984130859375
+      z = -141.5061492919922
+
+  [[maps.grenades]]
+    grenade = 1
+    name = "T Roof to Connector-Jungle Area"
+    type = 0
+    [maps.grenades.angle]
+      x = -26.919109344482422
+      y = -174.3666534423828
+    [maps.grenades.pos]
+      x = 815.96875
+      y = -1457.3970947265625
+      z = -44.90618896484375
+
+  [[maps.grenades]]
+    grenade = 1
+    name = "Window to Window (Oneway)"
+    type = 0
+    [maps.grenades.angle]
+      x = -48.21402359008789
+      y = 66.4050064086914
+    [maps.grenades.pos]
+      x = -1209.07763671875
+      y = -873.2706909179688
+      z = -103.90618896484375
+
+  [[maps.grenades]]
+    grenade = 1
+    name = "Back Alley to B Site"
+    type = 0
+    [maps.grenades.angle]
+      x = -38.383296966552734
+      y = -168.91456604003906
+    [maps.grenades.pos]
+      x = -292.9573669433594
+      y = 651.0545043945312
+      z = -15.90618896484375
+
+  [[maps.grenades]]
+    grenade = 1
+    name = "Back of Top Mid to Short"
+    type = 0
+    [maps.grenades.angle]
+      x = -47.08539581298828
+      y = -174.25372314453125
+    [maps.grenades.pos]
+      x = 399.96875
+      y = -17.061996459960938
+      z = -135.76377868652344
+
+  [[maps.grenades]]
+    grenade = 1
+    name = "T Spawn to Connector"
+    type = 2
+    [maps.grenades.angle]
+      x = -28.565841674804688
+      y = -140.28150939941406
+    [maps.grenades.pos]
+      x = 1135.9688720703125
+      y = 647.9756469726562
+      z = -197.32916259765625
+
+  [[maps.grenades]]
+    grenade = 1
+    name = "Back Alley to B Short"
+    type = 0
+    [maps.grenades.angle]
+      x = -44.5582275390625
+      y = -134.517333984375
+    [maps.grenades.pos]
+      x = -160.03125
+      y = 887.97607421875
+      z = -71.26570129394531
+
+  [[maps.grenades]]
+    grenade = 1
+    name = "Back Alley to Kitchen Window"
+    type = 0
+    [maps.grenades.angle]
+      x = -62.64456558227539
+      y = -155.41680908203125
+    [maps.grenades.pos]
+      x = -784.9414672851562
+      y = 623.0136108398438
+      z = -11.90618896484375
+
+  [[maps.grenades]]
+    grenade = 1
+    name = "Back Alley to Back of B Site"
+    type = 0
+    [maps.grenades.angle]
+      x = -56.902870178222656
+      y = -158.11537170410156
+    [maps.grenades.pos]
+      x = -759.4118041992188
+      y = 623.96875
+      z = -11.90618896484375
+
+  [[maps.grenades]]
+    grenade = 1
+    name = "Back Alley to Bench"
+    type = 0
+    [maps.grenades.angle]
+      x = -41.70703125
+      y = -178.88931274414062
+    [maps.grenades.pos]
+      x = -539.6492309570312
+      y = 520.03125
+      z = -17.25672149658203
+
+  [[maps.grenades]]
+    grenade = 1
+    name = "Short to A Palace"
+    type = 2
+    [maps.grenades.angle]
+      x = -17.02633285522461
+      y = -60.065921783447266
+    [maps.grenades.pos]
+      x = -903.96875
+      y = -376.03125
+      z = -94.42604064941406
+
+  [[maps.grenades]]
+    grenade = 1
+    name = "Connector to Underpass"
+    type = 1
+    [maps.grenades.angle]
+      x = -1.6631927490234375
+      y = 48.502197265625
+    [maps.grenades.pos]
+      x = -807.96875
+      y = -1239.96875
+      z = -103.90618896484375
+
+  [[maps.grenades]]
+    grenade = 1
+    name = "Back of Top Mid to Connector"
+    type = 1
+    [maps.grenades.angle]
+      x = -47.13386154174805
+      y = -136.7900390625
+    [maps.grenades.pos]
+      x = 398.96875
+      y = 174.526123046875
+      z = -184.86740112304688
+
+  [[maps.grenades]]
+    grenade = 0
+    name = "A Palace to Balcony"
+    type = 0
+    [maps.grenades.angle]
+      x = -9.949472427368164
+      y = -131.94680786132812
+    [maps.grenades.pos]
+      x = 367.96875
+      y = -2207.201416015625
+      z = 24.09381103515625
+
+  [[maps.grenades]]
+    grenade = 0
+    name = "Under Balcony to A Ramp"
+    type = 0
+    [maps.grenades.angle]
+      x = -0.6830635666847229
+      y = -159.27072143554688
+    [maps.grenades.pos]
+      x = 151.30142211914062
+      y = -1912.03125
+      z = -103.90618896484375
+
+  [[maps.grenades]]
+    grenade = 1
+    name = "Sandwich to Jungle-Connector"
+    type = 2
+    [maps.grenades.angle]
+      x = -41.18206024169922
+      y = -7.274810314178467
+    [maps.grenades.pos]
+      x = -261.3894348144531
+      y = -1546.3642578125
+      z = -103.90618896484375
+
+  [[maps.grenades]]
+    grenade = 3
+    name = "B Aps to Kitchen Window"
+    type = 2
+    [maps.grenades.angle]
+      x = 14.495945930480957
+      y = -87.39966583251953
+    [maps.grenades.pos]
+      x = -1952.03125
+      y = 691.4154663085938
+      z = 16.09381103515625
+
+  [[maps.grenades]]
+    grenade = 2
+    name = "B Balcony to Kitchen Window"
+    type = 2
+    [maps.grenades.angle]
+      x = 20.950345993041992
+      y = -87.13201904296875
+    [maps.grenades.pos]
+      x = -1952.03125
+      y = 651.290283203125
+      z = 36.09381103515625
+
+  [[maps.grenades]]
+    grenade = 2
+    name = "Under Balcony to A Palace"
+    type = 1
+    [maps.grenades.angle]
+      x = -32.78643798828125
+      y = 101.52212524414062
+    [maps.grenades.pos]
+      x = 151.3138885498047
+      y = -2071.96875
+      z = -103.90618896484375
+
+  [[maps.grenades]]
+    grenade = 2
+    name = "A Palace to Under Balcony"
+    type = 0
+    [maps.grenades.angle]
+      x = 3.4867618083953857
+      y = 74.91134643554688
+    [maps.grenades.pos]
+      x = 16.03125
+      y = -2375.906005859375
+      z = 24.09381103515625
+
+  [[maps.grenades]]
+    grenade = 2
+    name = "T Roof to Sandwich"
+    type = 0
+    [maps.grenades.angle]
+      x = -19.857418060302734
+      y = -165.01600646972656
+    [maps.grenades.pos]
+      x = 831.9911499023438
+      y = -1255.96875
+      z = -44.90618896484375
+
+  [[maps.grenades]]
+    grenade = 2
+    name = "Window to Underpass"
+    type = 0
+    [maps.grenades.angle]
+      x = 6.760690212249756
+      y = -69.76331329345703
+    [maps.grenades.pos]
+      x = -1183.96875
+      y = -456.03125
+      z = -103.90618896484375
+
+[[maps]]
+  map = "de_cache"
+
+  [[maps.grenades]]
+    grenade = 1
+    name = "Pipes to Truck"
+    type = 1
+    [maps.grenades.angle]
+      x = -42.396888732910156
+      y = -169.73406982421875
+    [maps.grenades.pos]
+      x = 1319.96875
+      y = 1612.99951171875
+      z = 1843.31396484375
+
+  [[maps.grenades]]
+    grenade = 1
+    name = "Corner to Vents"
+    type = 2
+    [maps.grenades.angle]
+      x = -12.772860527038574
+      y = -47.00754165649414
+    [maps.grenades.pos]
+      x = -996.96875
+      y = 1440.25
+      z = 1755.182373046875
+
+  [[maps.grenades]]
+    grenade = 1
+    name = "Corner to Middle"
+    type = 0
+    [maps.grenades.angle]
+      x = -10.965896606445312
+      y = -168.11451721191406
+    [maps.grenades.pos]
+      x = 1711.96875
+      y = 463.9848327636719
+      z = 1678.09375
+
+  [[maps.grenades]]
+    grenade = 1
+    name = "Ledge to CT B Site Entry"
+    type = 0
+    [maps.grenades.angle]
+      x = -26.765750885009766
+      y = 163.00360107421875
+    [maps.grenades.pos]
+      x = 960.0241088867188
+      y = -1463.972900390625
+      z = 1708.09375
+
+  [[maps.grenades]]
+    grenade = 1
+    name = "Corner to B Main Entry"
+    type = 0
+    [maps.grenades.angle]
+      x = 16.010948181152344
+      y = 8.179488182067871
+    [maps.grenades.pos]
+      x = -617.96875
+      y = -764.99169921875
+      z = 1860.09375
+
+  [[maps.grenades]]
+    grenade = 1
+    name = "Wood Panels to Highway"
+    type = 2
+    [maps.grenades.angle]
+      x = -43.06927490234375
+      y = 176.75892639160156
+    [maps.grenades.pos]
+      x = 1810.816650390625
+      y = 865.9988403320312
+      z = 1740.912353515625
+
+  [[maps.grenades]]
+    grenade = 1
+    name = "Corner to Quad"
+    type = 2
+    [maps.grenades.angle]
+      x = -51.59952926635742
+      y = 127.21063232421875
+    [maps.grenades.pos]
+      x = 1037.0408935546875
+      y = 513.03125
+      z = 1677.550048828125
+
+  [[maps.grenades]]
+    grenade = 1
+    name = "Skull to Quad"
+    type = 0
+    [maps.grenades.angle]
+      x = -55.38136672973633
+      y = 155.9221649169922
+    [maps.grenades.pos]
+      x = 1319.9136962890625
+      y = 1412.3861083984375
+      z = 1765.09375
+
+  [[maps.grenades]]
+    grenade = 1
+    name = "Corner to Quad or Forklift"
+    type = 2
+    [maps.grenades.angle]
+      x = -44.63779067993164
+      y = 112.03074645996094
+    [maps.grenades.pos]
+      x = 1037.0001220703125
+      y = 513.0003051757812
+      z = 1677.550048828125
+
+  [[maps.grenades]]
+    grenade = 1
+    name = "Corner to Generator/Headglitch"
+    type = 0
+    [maps.grenades.angle]
+      x = -27.73223114013672
+      y = 163.0457305908203
+    [maps.grenades.pos]
+      x = 827.971923828125
+      y = -1463.9931640625
+      z = 1678.09375
+
+  [[maps.grenades]]
+    grenade = 1
+    name = "Fence to B Site"
+    type = 0
+    [maps.grenades.angle]
+      x = -30.88364601135254
+      y = 161.22962951660156
+    [maps.grenades.pos]
+      x = 730.4978637695312
+      y = -1463.96875
+      z = 1678.09375
+
+  [[maps.grenades]]
+    grenade = 1
+    name = "Corner to Site/Truck"
+    type = 0
+    [maps.grenades.angle]
+      x = -61.60015869140625
+      y = -176.36727905273438
+    [maps.grenades.pos]
+      x = 1230.7569580078125
+      y = 1612.986572265625
+      z = 1765.96728515625
+
+  [[maps.grenades]]
+    grenade = 1
+    name = "Wall to Checkers"
+    type = 0
+    [maps.grenades.angle]
+      x = -12.73070240020752
+      y = 177.89817810058594
+    [maps.grenades.pos]
+      x = 867.827880859375
+      y = -872.001220703125
+      z = 1678.09375
+
+  [[maps.grenades]]
+    grenade = 1
+    name = "Corner to B Halls/B Main"
+    type = 0
+    [maps.grenades.angle]
+      x = -0.8810985684394836
+      y = 35.351932525634766
+    [maps.grenades.pos]
+      x = -461.03125
+      y = -764.96875
+      z = 1860.09375
+
+  [[maps.grenades]]
+    grenade = 1
+    name = "Quad to A Main"
+    type = 0
+    [maps.grenades.angle]
+      x = -1.9118766784667969
+      y = -29.810298919677734
+    [maps.grenades.pos]
+      x = -429.9949951171875
+      y = 2261.96875
+      z = 1782.09375
+
+  [[maps.grenades]]
+    grenade = 1
+    name = "Garage to Right Side of Mid"
+    type = 0
+    [maps.grenades.angle]
+      x = -10.639198303222656
+      y = 160.81927490234375
+    [maps.grenades.pos]
+      x = 1711.96875
+      y = -71.96875
+      z = 1678.09375
+
+  [[maps.grenades]]
+    grenade = 3
+    name = "Vent to Z"
+    type = 2
+    [maps.grenades.angle]
+      x = 15.556203842163086
+      y = 168.9762420654297
+    [maps.grenades.pos]
+      x = 605.03125
+      y = -149.96875
+      z = 1753.035888671875
+
+  [[maps.grenades]]
+    grenade = 0
+    name = "Quad Corner to A Main"
+    type = 0
+    [maps.grenades.angle]
+      x = -56.054534912109375
+      y = -92.08148956298828
+    [maps.grenades.pos]
+      x = 89.96875
+      y = 2244.705078125
+      z = 1751.09375
+
+  [[maps.grenades]]
+    grenade = 2
+    name = "Checkers to Vent"
+    type = 0
+    [maps.grenades.angle]
+      x = -18.959495544433594
+      y = 8.874261856079102
+    [maps.grenades.pos]
+      x = -411.96875
+      y = -418.96875
+      z = 1678.09375
+
+  [[maps.grenades]]
+    grenade = 0
+    name = "Checkers to B Hall"
+    type = 0
+    [maps.grenades.angle]
+      x = -20.503910064697266
+      y = 45.58353042602539
+    [maps.grenades.pos]
+      x = -45.67957305908203
+      y = -418.96875
+      z = 1678.09375
+
+  [[maps.grenades]]
+    grenade = 2
+    name = "Vent to Under Vent"
+    type = 0
+    [maps.grenades.angle]
+      x = 4.087681293487549
+      y = -130.00303649902344
+    [maps.grenades.pos]
+      x = 568.96875
+      y = -164.63978576660156
+      z = 1812.09375
+
+  [[maps.grenades]]
+    grenade = 2
+    name = "Flash Room to Back Site"
+    type = 0
+    [maps.grenades.angle]
+      x = -28.448246002197266
+      y = 148.1021270751953
+    [maps.grenades.pos]
+      x = 730.2426147460938
+      y = -1463.96875
+      z = 1678.09375
+
+  [[maps.grenades]]
+    grenade = 2
+    name = "Flash Room to Default"
+    type = 0
+    [maps.grenades.angle]
+      x = -24.867647171020508
+      y = 171.44677734375
+    [maps.grenades.pos]
+      x = 960.007080078125
+      y = -1463.96875
+      z = 1708.09375
+
+  [[maps.grenades]]
+    grenade = 1
+    name = "Back Site to Heaven"
+    type = 0
+    [maps.grenades.angle]
+      x = -17.29416275024414
+      y = 128.952392578125
+    [maps.grenades.pos]
+      x = 204.96875
+      y = -1458.96875
+      z = 1723.09375
+
+  [[maps.grenades]]
+    grenade = 2
+    name = "Back Site to Heaven"
+    type = 0
+    [maps.grenades.angle]
+      x = -17.917858123779297
+      y = 131.3682403564453
+    [maps.grenades.pos]
+      x = 204.96875
+      y = -1458.9842529296875
+      z = 1723.09375
+
+  [[maps.grenades]]
+    grenade = 2
+    name = "Heaven to Back Site"
+    type = 0
+    [maps.grenades.angle]
+      x = -11.888773918151855
+      y = -62.31547164916992
+    [maps.grenades.pos]
+      x = -530.3446655273438
+      y = -528.96875
+      z = 1795.45556640625
+
+  [[maps.grenades]]
+    grenade = 1
+    name = "T Spawn Truck to Z"
+    type = 2
+    [maps.grenades.angle]
+      x = -17.6866397857666
+      y = -156.00889587402344
+    [maps.grenades.pos]
+      x = 1776.27392578125
+      y = 867.4859008789062
+      z = 1682.35205078125
+
+  [[maps.grenades]]
+    grenade = 1
+    name = "Boost to Z"
+    type = 0
+    [maps.grenades.angle]
+      x = -10.554407119750977
+      y = -157.8683319091797
+    [maps.grenades.pos]
+      x = 1018.0248413085938
+      y = 593.7265625
+      z = 1783.0023193359375
+
+  [[maps.grenades]]
+    grenade = 1
+    name = "Back Site to CT"
+    type = 0
+    [maps.grenades.angle]
+      x = -54.58681106567383
+      y = 138.48622131347656
+    [maps.grenades.pos]
+      x = 204.96875
+      y = -1458.96875
+      z = 1723.09375
+
+  [[maps.grenades]]
+    grenade = 1
+    name = "B Hall to CT"
+    type = 1
+    [maps.grenades.angle]
+      x = -14.623307228088379
+      y = 137.17294311523438
+    [maps.grenades.pos]
+      x = 376.4097595214844
+      y = -819.0889892578125
+      z = 1678.09375
+
+  [[maps.grenades]]
+    grenade = 1
+    name = "B Hall to Heaven"
+    type = 0
+    [maps.grenades.angle]
+      x = -41.590885162353516
+      y = 137.1729736328125
+    [maps.grenades.pos]
+      x = 272.79962158203125
+      y = -748.4205322265625
+      z = 1660.076171875
+
+  [[maps.grenades]]
+    grenade = 1
+    name = "Z to Garage"
+    type = 0
+    [maps.grenades.angle]
+      x = -1.1691936254501343
+      y = 10.846344947814941
+    [maps.grenades.pos]
+      x = -342.05255126953125
+      y = 45.96875
+      z = 1727.09375
+
+  [[maps.grenades]]
+    grenade = 1
+    name = "T Spawn Truck to Mid Box"
+    type = 0
+    [maps.grenades.angle]
+      x = -31.160911560058594
+      y = -174.50648498535156
+    [maps.grenades.pos]
+      x = 1880.822265625
+      y = 615.96875
+      z = 1709.243896484375
+
+  [[maps.grenades]]
+    grenade = 1
+    name = "Long A to A Balcony"
+    type = 0
+    [maps.grenades.angle]
+      x = -60.65827941894531
+      y = -178.65374755859375
+    [maps.grenades.pos]
+      x = 1319.9940185546875
+      y = 1339.2330322265625
+      z = 1765.09375
+
+  [[maps.grenades]]
+    grenade = 1
+    name = "Long A to Highway Side of A"
+    type = 0
+    [maps.grenades.angle]
+      x = -49.906925201416016
+      y = -174.26242065429688
+    [maps.grenades.pos]
+      x = 1319.9998779296875
+      y = 1612.981689453125
+      z = 1843.31396484375
+
+  [[maps.grenades]]
+    grenade = 2
+    name = "Garage to Sandbags"
+    type = 0
+    [maps.grenades.angle]
+      x = -16.541934967041016
+      y = -151.02969360351562
+    [maps.grenades.pos]
+      x = 833.03125
+      y = 326.9873046875
+      z = 1678.09375
+
+  [[maps.grenades]]
+    grenade = 0
+    name = "Garage to Mid"
+    type = 0
+    [maps.grenades.angle]
+      x = -11.198777198791504
+      y = -176.6840057373047
+    [maps.grenades.pos]
+      x = 1762.03125
+      y = 318.36077880859375
+      z = 1678.030517578125
+
+  [[maps.grenades]]
+    grenade = 0
+    name = "B Hall to B Main"
+    type = 0
+    [maps.grenades.angle]
+      x = -12.683796882629395
+      y = 144.2841796875
+    [maps.grenades.pos]
+      x = 956.5650024414062
+      y = -1173.99560546875
+      z = 1678.09375
+
+  [[maps.grenades]]
+    grenade = 1
+    name = "Under Vent to Vent (Oneway)"
+    type = 0
+    [maps.grenades.angle]
+      x = -20.1978759765625
+      y = 83.64282989501953
+    [maps.grenades.pos]
+      x = 425.96875
+      y = -418.96875
+      z = 1678.09375
